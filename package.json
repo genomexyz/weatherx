@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/genomexyz/weatherx/issues"
   },
-  "homepage": "https://github.com/genomexyz/weatherx#readme"
+  "homepage": "https://github.com/genomexyz/weatherx#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
 }
